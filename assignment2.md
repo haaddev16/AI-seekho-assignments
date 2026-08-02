@@ -12,36 +12,36 @@ I read 1-star and 2-star reviews across three direct competitors to find the rec
 
 **Competitor 1: My Study Life – Study Planner**
 
-![My Study Life 1-star review by Kaitlin xtr](screenshots/my-study-life-kaitlin-xtr-1star.png)
+![My Study Life 1-star review by Kaitlin xtr](my-study-life-kaitlin-xtr-1star.png)
 
 - *Kaitlin xtr (1★):* the app used to be a 5-star experience, but a redesign made the UI busier and harder to scan, and a new required subscription made the free version unusable. She switched back to a physical notebook. *(12 people found this helpful)*
 - *Eni (1★):* after the update, years of class data disappeared, and the new interface is more confusing than the old one. No option to switch back.
 - *Stephanee Cooper (1★):* the free tier caps you at 6 tasks, and subject lists don't match university-level courses. Nothing is customizable without paying.
 - *Alexis Copeland (1★):* the migration/export tool used to move data to the new version doesn't fully work — some data is excluded on import, and calendar dates display incorrectly. *(57 people found this helpful)*
 
-![My Study Life 1-star review by Alexis Copeland](screenshots/my-study-life-alexis-copeland-1star.png)
+![My Study Life 1-star review by Alexis Copeland](my-study-life-alexis-copeland-1star.png)
 
 - *Ethan Devine (2★):* an update wiped an hour of manually entered tasks, and the export function errors out instead of recovering the data. *(91 people found this helpful)*
 
-![My Study Life 2-star review by Ethan Devine](screenshots/my-study-life-ethan-devine-2star.png)
+![My Study Life 2-star review by Ethan Devine](my-study-life-ethan-devine-2star.png)
 - *A Google user (2★):* notifications only arrive when connected to Wi-Fi, and even then usually fire after the class has already started. *(71 people found this helpful)*
 
 **Competitor 2: TimeTable+ : Study Planner App**
 
-![TimeTable+ 1-star review by Yasmine Osama](screenshots/timetable-plus-yasmine-osama-1star.png)
+![TimeTable+ 1-star review by Yasmine Osama](timetable-plus-yasmine-osama-1star.png)
 
 - *Yasmine Osama (1★):* no reliable notification/alarm at the scheduled time — instead the alarm rang continuously all day and required two phone restarts to stop.
 - *Collins law (1★):* no way to duplicate a day's schedule to another day, so a full week had to be built manually (4 hours), and the alarm worked only once and then stopped functioning.
 - *Fz Sw (1★):* no option to change the notification tone.
 - *Vaibhav Jain (2★):* bulk edit/delete only applies to a single day, not recurring tasks across the week, and alarms consistently don't fire (though notifications do).
 
-![TimeTable+ 2-star review by Vaibhav Jain](screenshots/timetable-plus-vaibhav-jain-2star.png)
+![TimeTable+ 2-star review by Vaibhav Jain](timetable-plus-vaibhav-jain-2star.png)
 - Notably, the developer's own reply to Collins law confirms the root cause: on non-stock Android UIs (Xiaomi, Realme, Oppo), the OS's aggressive battery-saver kills the app in the background — a reliability problem baked into how these apps are built, not a one-off bug.
 
 **Competitor 3: TrackIt – Study Tracker & Timer**
 - *Baby:* the app's own time-tracking is so slow/laggy that a plain phone clock timer is more useful.
 
-![TrackIt 1-star review by Nisar Ahmad](screenshots/trackit-nisar-ahmad-1star.png)
+![TrackIt 1-star review by Nisar Ahmad](trackit-nisar-ahmad-1star.png)
 
 - *Nisar Ahmad (1★):* daily study time doesn't reset at midnight — yesterday's hours carry into today's total, making it impossible to see a true daily count.
 
